@@ -17,8 +17,8 @@ For more info on how it works, visit the ressource page for a more detailed expl
 
 ## What are its use-cases?
 The BLE Bloodhound was designed for the following 3 main ideas:
- 1. **Use in Law Enforcment** (retrieving stolen or evidential devices, and rescue)
- 2. **IT and Cybersecurity Professionals testing their infrastructure.**
+ 1. **IT and Cybersecurity Professionals testing their infrastructure.**
+ 2. **Use in Law Enforcment** (i.e. rescue, and retrieving stolen or evidential assets)
  3. **Help detect cheating in education systems** (i.e. written, closed book exams).
 
  That said, its usage **MUST be used in ethical situations only**. Failure to do so can lead to problems with your local authorities. For more information on usage and guidelines, visit ...
