@@ -6,10 +6,11 @@ In simple terms, the BLE Bloodhound works by listening to broadcasted Bluetooth 
 
 `RSSI` is usually reported in `dBm`, which is a logarithmic unit of power.
 Example:
-`−30 dBm` → very strong signal (device is very close/arms length away)
 
-`−80 dBm` → weak signal (device is far away)
+ - `−30 dBm` → very strong signal (device is very close/arms length away)
 
-`−100 dBm` → barely detectable
+ - `−80 dBm` → weak signal (device is far away)
+
+ - `−100 dBm` → barely detectable
 
 For more info on how it works, visit the ressource page for a more detailed explanation.
